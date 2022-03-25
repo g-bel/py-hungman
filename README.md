@@ -1,4 +1,4 @@
-# py-hanman
+# py-hungman
 A short console game made for learning the basics of python.
 
 ## Usage instructions
